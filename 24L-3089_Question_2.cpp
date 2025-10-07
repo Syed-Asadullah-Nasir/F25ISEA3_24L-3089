@@ -1,3 +1,4 @@
+// Console Based Hangman Game
 #include <iostream>
 #include <fstream>
 #include <cstdlib>
@@ -175,3 +176,4 @@ int main()
     playHangman();
     return 0;
 }
+
